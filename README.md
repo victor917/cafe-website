@@ -1,4 +1,4 @@
-# cafe-website assignment
+# Cafe-Website Assignment
 
 This project was created with Bootstrap 3.0, HTML5, and CSS3.
   - Responsive web design for desktop and mobile
